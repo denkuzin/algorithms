@@ -39,7 +39,7 @@ decorator==4.1.2
 deepspeech==0.1.0
 dill==0.2.7.1
 distributed==1.16.3
-Django==1.11.4
+Django==1.11.28
 docutils==0.13.1
 EasyProcess==0.2.3
 entrypoints==0.2.3
