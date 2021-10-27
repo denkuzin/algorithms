@@ -33,7 +33,7 @@ cufflinks==0.12.0
 cycler==0.10.0
 Cython==0.25.2
 cytoolz==0.8.2
-dask==0.14.3
+dask==2021.10.0
 datashape==0.5.4
 decorator==4.1.2
 deepspeech==0.1.0
